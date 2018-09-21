@@ -3,5 +3,5 @@
 # Dokumentace ke správě webu skrejsice.cz
 
 [Web](https://www.skrejsice.cz/)
-[Přečíst dokumentaci](#Úvod)
+[Přečíst dokumentaci](#slider)
 

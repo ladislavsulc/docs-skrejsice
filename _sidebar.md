@@ -1,0 +1,2 @@
+- [Slider](/)
+- [Ostatní stránky](other-pages)
