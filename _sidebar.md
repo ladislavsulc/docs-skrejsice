@@ -1,2 +1,5 @@
 - [Slider](/)
-- [Ostatní stránky](other-pages)
+- [Speciální stránky](other-pages)
+- [Obecné](general)
+- **Odkazy**
+- [![Trello](https://icongr.am/simple/trello.svg?size=16&color=0079bf)Trello](https://trello.com/b/4iuV7QKZ/sk-rejšice)

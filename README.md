@@ -5,7 +5,7 @@
 - pokud někdy po přihlášení nevidíme administrační panel nahoře,<br> je třeba použít tvrdý refresh (cache) pomocí `CTRL + F5`
 - v horním panelu klikneme na položku přizpůsobit
 
-![alt text](https://i.imgur.com/RQRzlNp.png "Přizpůsobit")
+![Přizpůsobit](https://i.imgur.com/RQRzlNp.png "Přizpůsobit")
 
 - klikneme na **tvůrce**
 
